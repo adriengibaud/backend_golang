@@ -1,0 +1,8 @@
+POST http://localhost:6000/user
+content-Type: application/json
+
+{
+  "name": "patrick",
+  "location": "Paris",
+  "title": "clown"
+}
